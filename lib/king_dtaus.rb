@@ -7,3 +7,5 @@ require "king_dta/booking"
 require "king_dta/dtaus"
 require "king_dta/dtazv"
 require "king_dta/exception"
+
+I18n.config.available_locales = :en
